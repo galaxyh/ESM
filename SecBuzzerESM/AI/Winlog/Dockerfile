@@ -1,4 +1,4 @@
-FROM python:3.8.5-slim
+FROM python:3.14.0-slim
 
 # 建立資料夾; -p 建立子目錄
 COPY ./Winlog /usr/src/Winlog
