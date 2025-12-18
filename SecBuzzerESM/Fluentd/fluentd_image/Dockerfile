@@ -1,4 +1,4 @@
-FROM fluent/fluentd:v1.9-1
+FROM fluent/fluentd:v1.16.11-1.0
 MAINTAINER CSTI-Chenghan Lin
 
 USER root
