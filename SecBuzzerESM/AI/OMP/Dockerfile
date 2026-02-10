@@ -1,4 +1,4 @@
-FROM python:3.7.1-slim
+FROM python:3.14.3-slim
 
 # 建立資料夾; -p 建立子目錄
 RUN mkdir -p /usr/src/omp/code
